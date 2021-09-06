@@ -5,7 +5,7 @@ setps to setup:
 2.create .env file in root directory  
 3.Add four environment variables into .env file
 
-  MONGODB_URI = mongodb://localhost:27017/products  
+  MONGODB_URI = mongodb://localhost:27017/products  //cluster url or local mongodb url(assuming mongodb installed in local)  
   TOKEN_KEY = somerandontext  //
   TEST_USERNAME = test_user  
   TEST_PWD = test_password  
